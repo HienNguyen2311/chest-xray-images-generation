@@ -37,11 +37,17 @@ The project uses a dataset of 3616 COVID-19 chest X-ray images (299x299 pixels).
 
 ## Visualizations
 
+![image85](https://github.com/user-attachments/assets/505db638-286e-4f7a-84f9-7034b470076b)
+![image87](https://github.com/user-attachments/assets/a865c24b-2354-456e-9a2b-6f777902967a)
+![image86](https://github.com/user-attachments/assets/f7f67035-87dc-4b5e-8555-30fb66339936)
 
 *Comparison of real and generated COVID-19 chest X-ray images*
 
+![image88](https://github.com/user-attachments/assets/712278d4-9651-43ed-b2ec-edc068f0b821)
+*Confusion matrix of classifiers using DCGAN generated images*
 
-*Confusion matrix of classifiers using DCGAN and WGAN-GP generated images*
+![image89](https://github.com/user-attachments/assets/aa0b104d-5eb1-4472-87c2-1c3dac7738a6)
+ *Confusion matrix of classifiers using WGAN-GP generated images*
 
 ## License
 
