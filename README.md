@@ -25,7 +25,7 @@ pip install torch torchvision PIL numpy matplotlib tqdm scipy mlxtend sklearn
 
 Note: The original code was developed and tested in Google Colab. For optimal performance and compatibility, it is recommended to run this code in the Google Colab environment.
 
-Google Colab notebook link: https://colab.research.google.com/drive/1oq08BeHJ3WphL0E5kZ12zK0b-28jIl51?usp=sharing
+[Google Colab notebook link](https://colab.research.google.com/drive/1oq08BeHJ3WphL0E5kZ12zK0b-28jIl51?usp=sharing 'Google Colab notebook link')
 
 ## Data Sources
 
