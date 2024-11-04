@@ -45,9 +45,11 @@ Python, PyTorch, torchvision, PIL (Python Imaging Library), NumPy, Matplotlib, t
 *Comparison of real and generated COVID-19 chest X-ray images*
 
 ![image88](https://github.com/user-attachments/assets/712278d4-9651-43ed-b2ec-edc068f0b821)
+
 *Confusion matrix of classifiers using DCGAN generated images*
 
 ![image89](https://github.com/user-attachments/assets/aa0b104d-5eb1-4472-87c2-1c3dac7738a6)
+
  *Confusion matrix of classifiers using WGAN-GP generated images*
 
 ## License
