@@ -32,13 +32,14 @@ Google Colab notebook link: https://colab.research.google.com/drive/1oq08BeHJ3Wp
 The project uses a dataset of 3616 COVID-19 chest X-ray images (299x299 pixels). The images are preprocessed using Histogram Equalization (CLAHE) and resized to 128x128 or 64x64 pixels.
 
 ## Technologies and Libraries Used
-
-- Python, PyTorch, torchvision, PIL (Python Imaging Library), NumPy, Matplotlib, tqdm, SciPy, mlxtend, scikit-learn, Google Colab
+Python, PyTorch, torchvision, PIL (Python Imaging Library), NumPy, Matplotlib, tqdm, SciPy, mlxtend, scikit-learn, Google Colab
 
 ## Visualizations
 
 ![image85](https://github.com/user-attachments/assets/505db638-286e-4f7a-84f9-7034b470076b)
+
 ![image87](https://github.com/user-attachments/assets/a865c24b-2354-456e-9a2b-6f777902967a)
+
 ![image86](https://github.com/user-attachments/assets/f7f67035-87dc-4b5e-8555-30fb66339936)
 
 *Comparison of real and generated COVID-19 chest X-ray images*
